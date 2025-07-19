@@ -1,4 +1,5 @@
-tensorflow==2.8.0
+tensorflow-cpu==2.8.0
+
 textblob
 vaderSentiment
 nltk
@@ -8,5 +9,3 @@ plotly
 matplotlib
 wordcloud
 scikit-learn
-
---upgrade pip setuptools
