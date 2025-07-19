@@ -8,3 +8,5 @@ plotly
 matplotlib
 wordcloud
 scikit-learn
+
+--upgrade pip setuptools
