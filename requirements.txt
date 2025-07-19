@@ -8,6 +8,3 @@ matplotlib
 wordcloud
 tensorflow
 scikit-learn
-numpy
-seaborn
-requests
