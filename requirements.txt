@@ -1,13 +1,13 @@
-textblob
-vaderSentiment
-nltk
-streamlit
-pandas
-plotly
-matplotlib
-wordcloud
-tensorflow
-scikit-learn
+# textblob
+# vaderSentiment
+# nltk
+# streamlit
+# pandas
+# plotly
+# matplotlib
+# wordcloud
+# tensorflow
+# scikit-learn
 
 streamlit
 tensorflow
