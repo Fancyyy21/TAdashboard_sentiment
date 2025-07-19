@@ -13,7 +13,7 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer
 
-# --- NLTK Data Downloads ---
+# --- NLTK Data Downloads --- 
 @st.cache_resource
 def download_nltk_data():
     import nltk
