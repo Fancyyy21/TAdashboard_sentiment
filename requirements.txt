@@ -1,19 +1,10 @@
-# textblob
-# vaderSentiment
-# nltk
-# streamlit
-# pandas
-# plotly
-# matplotlib
-# wordcloud
-# tensorflow
-# scikit-learn
-
+tensorflow==2.8.0
+textblob
+vaderSentiment
+nltk
 streamlit
-tensorflow
-pillow
-numpy
-streamlit-folium
-folium
-scikit-image
-streamlit_option_menu
+pandas
+plotly
+matplotlib
+wordcloud
+scikit-learn
