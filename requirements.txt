@@ -9,4 +9,4 @@ numpy # For numerical operations
 scikit-learn # For Logistic Regression and potentially other ML models
 joblib # For loading tokenizer in DL model
 textblob # For TextBlob sentiment analysis
-pip==22.2.2
+pip==25.1.1
