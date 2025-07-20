@@ -1,11 +1,8 @@
 streamlit
-pandas
-plotly_express
+pandas==1.4.4
 matplotlib
 wordcloud
 nltk
-requests
-tensorflow
 scikit-learn # For Logistic Regression and potentially other ML models
-joblib # For loading tokenizer in DL model
-textblob # For TextBlob sentiment analysis
+numpy==1.21.5
+pip==22.2.2
