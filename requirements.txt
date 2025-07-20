@@ -1,11 +1,11 @@
-tensorflow-cpu==2.8.0
-
-textblob
-vaderSentiment
-nltk
 streamlit
 pandas
-plotly
+plotly_express
 matplotlib
 wordcloud
-scikit-learn
+nltk
+requests
+tensorflow
+scikit-learn # For Logistic Regression and potentially other ML models
+joblib # For loading tokenizer in DL model
+textblob # For TextBlob sentiment analysis
