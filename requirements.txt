@@ -5,8 +5,7 @@ wordcloud
 nltk
 requests
 tensorflow==2.19.0
-numpy # For numerical operations
-scikit-learn # For Logistic Regression and potentially other ML models
-joblib # For loading tokenizer in DL model
-textblob # For TextBlob sentiment analysis
-pip==25.1.1
+numpy
+scikit-learn
+joblib
+textblob
