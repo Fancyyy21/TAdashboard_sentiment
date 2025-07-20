@@ -1,8 +1,11 @@
 streamlit
-tensorflow
 pandas
+plotly_express
 matplotlib
 wordcloud
 nltk
-scikit-learn
-numpy
+requests
+tensorflow
+scikit-learn # For Logistic Regression and potentially other ML models
+joblib # For loading tokenizer in DL model
+textblob # For TextBlob sentiment analysis
