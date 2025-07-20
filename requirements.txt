@@ -1,6 +1,5 @@
 streamlit
 pandas
-plotly_express
 matplotlib
 wordcloud
 nltk
